@@ -3,4 +3,6 @@
 [TOPICS IN APPLIED DATA MINING - FINAL PROJECT]
 
 Main_Program.ipynb --> Whole Analysis.
-Twitter_data_acq.ipynb --> Twitter Scraper
+
+
+Twitter_data_acq.ipynb --> Twitter Scraper.
